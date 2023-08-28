@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mercy Ojiemudia</h1>
-<h3 align="center">upcoming web developer live in Munich, Bayern</h3>
+<h3 align="center">Software developer living in Munich, Bayern</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" alt="coding" />
 
 
